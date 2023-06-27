@@ -7,7 +7,7 @@
 
 - 💬[![My Skills](https://skillicons.dev/icons?i=,js,react,redux,angular,photoshop,nodejs,bash,babel,github,mysql,figma&theme=light)](https://skillicons.dev)
 
-![mail]([https://example.com/images/cat.jpg](https://icons8.com/icon/X0mEIh0RyDdL/email))
+![mail]([https://example.com/images/cat.jpg](https://icons8.com/icon/X0mEIh0RyDdL/email)
 
 
 
