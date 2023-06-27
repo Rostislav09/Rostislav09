@@ -28,6 +28,9 @@ means working 24/7.
 
 <br/>  
 
+</td></tr></table>  
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="54" height="54" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="54" height="54" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="54" height="54" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="54" height="54" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="54" height="54" /></div>
 
 </td></tr></table>  
 
